@@ -6,7 +6,7 @@ Créer un chat application JavaScript:
 
 On doit avoir un bouton input dans laquelle saisir du texte.
 
-Et on souhaite que quand le message est envoyé on puisse l'afficher à tout le monde en utilisant webSocket.
+Et en utilisant webSocket, on souhaite afficher le message à tout le monde lorsque celui-ci est envoyé.
 
 
 
